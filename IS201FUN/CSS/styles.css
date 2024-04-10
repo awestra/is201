@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(216, 228, 238);
+    color: darkslategray; /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: darkslategray;
+}
+img{
+    border: 2px solid darkslategray;
+    padding: 3px;
+    margin: 5px;
+    display: block;
+    margin: auto; /*blocks out horizontal space and makes it so everything automatically goes to the center*/
+
+}
+iframe{
+    display: block;
+    margin: auto; /*blocks out horizontal space and makes it so everything automatically goes to the center*/ 
+}
+.rizz{
+    text-align: center;
+    text-emphasis: bold;
+    
+   
+    
+}
+.rizz:hover{
+    color: red;
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
+
